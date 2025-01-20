@@ -19,5 +19,5 @@ Atualmente, estou:
 
 ## 🔗 Entre em contato comigo
 - **E-mail:** [luizfhylipe1116@gmail.com](mailto:luizfhylipe1116@gmail.com)
-- **LinkedIn:** [Seu perfil aqui]
+- **LinkedIn:** [https://www.linkedin.com/in/luiz-filipe-ferreira-gon%C3%A7alves-083b85334/]
 - **Portfólio:** Em breve!
