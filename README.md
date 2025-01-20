@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Luiz Filipe
 
-<!--
-**Filipe062/Filipe062** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor front-end em formação, apaixonado por tecnologia e programação. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e aprofundando meus conhecimentos em **React**, **JavaScript**, **HTML**, **CSS** e **GitHub**.
 
-Here are some ideas to get you started:
+## 🚀 Habilidades
+- **Linguagens e ferramentas:** JavaScript, React, CSS3, HTML5, Git/GitHub
+- **Certificações:** Front-End, CSS, JavaScript (DIO)
+- **Áreas de Interesse:** Desenvolvimento Front-End, criação de interfaces interativas e responsivas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 O que estou aprendendo agora?
+Atualmente, estou:
+- Explorando React para criar aplicações modernas e dinâmicas.
+- Trabalhando em projetos pessoais para consolidar meus conhecimentos.
+
+## 📂 Projetos Destacados
+- [**Trilha CSS - Desafio 01**](https://github.com/Filipe062/trilha-css-desafio-01): Aplicação para praticar CSS.
+- [**Jogo Detona Ralph**](https://github.com/Filipe062/jsgame-detona-ralph): Pequeno jogo feito com JavaScript.
+- Outros projetos no [meu repositório](https://github.com/Filipe062?tab=repositories).
+
+## 🔗 Entre em contato comigo
+- **E-mail:** [luizfhylipe1116@gmail.com](mailto:luizfhylipe1116@gmail.com)
+- **LinkedIn:** [Seu perfil aqui]
+- **Portfólio:** Em breve!
