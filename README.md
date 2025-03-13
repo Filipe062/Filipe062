@@ -4,8 +4,9 @@ Sou um desenvolvedor front-end em formação, apaixonado por tecnologia e progra
 
 ## 🚀 Habilidades
 - **Linguagens e ferramentas:** JavaScript, React, CSS3, HTML5, Git/GitHub
-- **Certificações:** Front-End, CSS, JavaScript (DIO)
+- **Certificações:** Front-End, CSS, JavaScript (DIO), Basic FrontEnd (Descomplica)
 - **Áreas de Interesse:** Desenvolvimento Front-End, criação de interfaces interativas e responsivas.
+  
 
 ## 🌱 O que estou aprendendo agora?
 Atualmente, estou:
