@@ -13,10 +13,20 @@ Atualmente, estou:
 - Explorando React para criar aplicações modernas e dinâmicas.
 - Trabalhando em projetos pessoais para consolidar meus conhecimentos.
 
-## 📂 Projetos Destacados
-- [**Trilha CSS - Desafio 01**](https://github.com/Filipe062/trilha-css-desafio-01): Aplicação para praticar CSS.
-- [**Jogo Detona Ralph**](https://github.com/Filipe062/jsgame-detona-ralph): Pequeno jogo feito com JavaScript.
-- Outros projetos no [meu repositório](https://github.com/Filipe062?tab=repositories).
+## 📂 Projetos Destacados (Atualizado)
+React-CLI 🖥️
+🔹 Um projeto de linha de comando (CLI) utilizando React. Ideal para quem deseja criar ferramentas interativas diretamente no terminal.
+
+Calculadora React 🧮
+🔹 Uma calculadora desenvolvida com React para reforçar conceitos de estados, eventos e manipulação de inputs.
+
+Mundo Invertido 🔄
+🔹 Aplicação inspirada no universo de Stranger Things, criada com HTML, CSS e JavaScript, explorando interatividade e animações.
+
+Jogo Detona Ralph 🎮
+🔹 Um jogo simples feito em JavaScript, perfeito para praticar manipulação do DOM e eventos.
+
+📌 Veja mais projetos no meu GitHub!
 
 ## 🔗 Entre em contato comigo
 - **E-mail:** [luizfhylipe1116@gmail.com](mailto:luizfhylipe1116@gmail.com)
