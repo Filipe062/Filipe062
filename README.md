@@ -16,6 +16,7 @@ Atualmente, estou:
 ## 📂 Projetos Destacados (Atualizado)
 React-CLI 🖥️
 🔹 Um projeto de linha de comando (CLI) utilizando React. Ideal para quem deseja criar ferramentas interativas diretamente no terminal.
+       -link https://filipe062.github.io/React-CLI/
 
 Calculadora React 🧮
 🔹 Uma calculadora desenvolvida com React para reforçar conceitos de estados, eventos e manipulação de inputs.
