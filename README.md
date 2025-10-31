@@ -1,43 +1,51 @@
-👋 Olá! Eu sou Luiz Filipe
-Sou um desenvolvedor front-end em formação, apaixonado por tecnologia e programação. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e aprofundando meus conhecimentos em React, JavaScript, HTML, CSS, Java e GitHub.
+# 👋 Olá, eu sou o Luiz Filipe!
 
-🚀 Habilidades
-Linguagens e ferramentas: JavaScript, React, CSS3, HTML5, Java, Git/GitHub
+💻 Sou um **Desenvolvedor Front-End** apaixonado por tecnologia e inovação.  
+Atualmente curso **Engenharia de Software** e possuo certificações em **HTML, CSS, JavaScript e React**.  
+Amo transformar ideias em interfaces funcionais e modernas, com foco em **performance, usabilidade e experiência do usuário**.
 
-Certificações: Front-End, CSS, JavaScript (DIO), Basic FrontEnd (Descomplica)
+---
 
-Áreas de Interesse: Desenvolvimento Front-End, criação de interfaces interativas e responsivas, lógica de programação e algoritmos.
+## 🚀 Tecnologias e Ferramentas
 
-🌱 O que estou aprendendo agora?
-Atualmente, estou:
+### 🌐 Front-End
+- HTML5 | CSS3 | JavaScript (ES6+) | React.js  
 
-Explorando React para criar aplicações modernas e dinâmicas.
+### ⚙️ Back-End e Outras Linguagens
+- Java | Node.js | MySql | Banco de dados (aprendendo)
 
-Aprendendo Java para fortalecer minha base em programação orientada a objetos.
+### 🧰 Ferramentas e Versionamento
+- Git | GitHub | VS Code | Figma
 
-Estudando estrutura de dados e algoritmos, como matrizes, vetores e busca sequencial.
+---
 
-Trabalhando em projetos pessoais para consolidar meus conhecimentos.
+## 🎓 Formação
+- 🎓 **Engenharia de Software**  
+- 💡 Cursos complementares pela **DIO (Digital Innovation One)**
 
-📂 Projetos Destacados (Atualizado)
-React-CLI 🖥️
-🔹 Um projeto de linha de comando (CLI) utilizando React. Ideal para quem deseja criar ferramentas interativas diretamente no terminal.
-🔗 Acessar projeto
+---
 
-Calculadora React 🧮
-🔹 Uma calculadora desenvolvida com React para reforçar conceitos de estados, eventos e manipulação de inputs.
+## 💼 Projetos em Destaque
+- 🕷️ [Spider-Man](https://github.com/Filipe062/spider-man) — Projeto em React inspirado no universo do Homem-Aranha.  
+- ⚡ React CLI — Projeto de interface para praticar conceitos de React e componentes reutilizáveis.  
+- 💳 ContaBanco — Aplicação em Java que simula operações bancárias básicas.
 
-Mundo Invertido 🔄
-🔹 Aplicação inspirada no universo de Stranger Things, criada com HTML, CSS e JavaScript, explorando interatividade e animações.
+---
 
-Jogo Detona Ralph 🎮
-🔹 Um jogo simples feito em JavaScript, perfeito para praticar manipulação do DOM e eventos.
+## 🌱 Atualmente
+- Estudando **Java** e aprofundando em **React**  
+- Criando projetos para fortalecer meu portfólio  
+- Trabalhando na área de **TI** na empresa **CECOM**
 
-📌 Veja mais projetos no meu GitHub!
+---
 
-🔗 Entre em contato comigo
-E-mail: luizfhylipe1116@gmail.com
+## 📫 Onde me encontrar
+- 💼 [LinkedIn](https://www.linkedin.com/in/luiz-filipe-ferreira-gon%C3%A7alves-083b85334)  
+- 💻 [GitHub](https://github.com/Filipe062)  
+- ✉️ **luisfhylipe@gmail.com**
 
-LinkedIn: Meu perfil
+---
 
-Portfólio: Repositório GitHub
+> “Transformar código em experiências é o que me motiva todos os dias.” 🚀  
+⭐ Se curtir algum dos meus projetos, não esqueça de deixar uma **estrela**!
+
