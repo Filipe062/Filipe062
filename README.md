@@ -26,7 +26,7 @@ Amo transformar ideias em interfaces funcionais e modernas, com foco em **perfor
 ---
 
 ## 💼 Projetos em Destaque
-- 🕷️ [Spider-Man](https://github.com/Filipe062/spider-man) — Projeto em React inspirado no universo do Homem-Aranha.  
+- 🕷️ [Spider-Man] — Projeto em React inspirado no universo do Homem-Aranha.  
 - ⚡ React CLI — Projeto de interface para praticar conceitos de React e componentes reutilizáveis.  
 - 💳 ContaBanco — Aplicação em Java que simula operações bancárias básicas.
 
